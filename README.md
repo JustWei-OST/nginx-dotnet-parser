@@ -1,1 +1,1 @@
-# nginx-dotnet-parser
+# NginxConfParser
