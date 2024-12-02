@@ -1,1 +1,1 @@
-antlr4 -listener -lib . -Dlanguage=CSharp -visitor .\Nginx.g4
+antlr4 -listener -lib . -Dlanguage=CSharp -package NginxDotnetParser  -visitor .\Nginx.g4
